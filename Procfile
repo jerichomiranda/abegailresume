@@ -1,0 +1,1 @@
+web: gunicorn djresume2.wsgi
